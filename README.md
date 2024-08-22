@@ -27,16 +27,6 @@
 ![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=Git&logoColor=white)
 
 
-![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=Nginx)
-![Mysql](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql&logoColor=black)
-![Elastic](https://img.shields.io/badge/Elasticsearch-FEC514?style=flat-square&logo=Elastic&logoColor=white)
-![](https://img.shields.io/badge/Cocos%20creator-blue.svg)
-
-<img height="130px" src="https://github-readme-stats.vercel.app/api?username=Xuenew&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true&bg_color=45,ff7979,ffd479,fffc79,73fa79" alt="Xuenew's GitHub Stats"> <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Qingyaooo&hide_title=true&layout=compact&theme=graywhite&hide_border=true&bg_color=45,fffc79,73fa79,75f0db" alt="Most Used Languages">
-
-
-
-
 
 <!--
 **Qingyaooo/Qingyaooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
