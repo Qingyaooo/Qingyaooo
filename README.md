@@ -15,10 +15,10 @@
 
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Xuenew)
-[![Email](https://img.shields.io/badge/QQEmail-ea4335?style=flat-square&logo=Mail.Ru)](1287986063@qq.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Qingyaooo)
+[![Email](https://img.shields.io/badge/QQEmail-ea4335?style=flat-square&logo=Mail.Ru)](1161469003@qq.com)
 [![](https://img.shields.io/badge/CSDN-吃瓜的瓜农-blue.svg)](https://blog.csdn.net/weixin_41804512)
-![Profile views](https://views.whatilearened.today/views/github/Xuenew/views.svg)
+![Profile views](https://views.whatilearened.today/views/github/Qingyaooo/views.svg)
 
 
 ![](https://img.shields.io/badge/ubuntu-20.04-<COLOR>.svg)
