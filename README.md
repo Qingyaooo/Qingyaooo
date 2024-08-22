@@ -12,6 +12,7 @@
 - ⚡ Fun fact:喜欢看动漫，喜欢看小说，喜欢听音乐，喜欢看电影，喜欢做游戏
 
 
+
 <img align="center" src="./images/github-contribution-grid-snake.svg" style="max-width: 90%;">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Xuenew)
@@ -31,7 +32,9 @@
 ![Elastic](https://img.shields.io/badge/Elasticsearch-FEC514?style=flat-square&logo=Elastic&logoColor=white)
 ![](https://img.shields.io/badge/Cocos%20creator-blue.svg)
 
-<img height="130px" src="https://github-readme-stats.vercel.app/api?username=Xuenew&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true&bg_color=45,ff7979,ffd479,fffc79,73fa79" alt="Xuenew's GitHub Stats"> <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Xuenew&hide_title=true&layout=compact&theme=graywhite&hide_border=true&bg_color=45,fffc79,73fa79,75f0db" alt="Most Used Languages">
+<img height="130px" src="https://github-readme-stats.vercel.app/api?username=Xuenew&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true&bg_color=45,ff7979,ffd479,fffc79,73fa79" alt="Xuenew's GitHub Stats"> <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Qingyaooo&hide_title=true&layout=compact&theme=graywhite&hide_border=true&bg_color=45,fffc79,73fa79,75f0db" alt="Most Used Languages">
+
+
 
 
 
