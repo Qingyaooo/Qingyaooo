@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h2 align="center">👋 Hey! I'm Qingyao. 🐘</h2>
 <br />
