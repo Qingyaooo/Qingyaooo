@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact:喜欢看动漫，喜欢看小说，喜欢听音乐，喜欢看电影，喜欢做游戏
 
-![snake](https://raw.githubusercontent.com/Qingyao/Qingyao/output/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/Qingyaooo/Qingyaooo/output/github-contribution-grid-snake.svg)
 
 
 <img align="center" src="./images/github-contribution-grid-snake.svg" style="max-width: 90%;">
