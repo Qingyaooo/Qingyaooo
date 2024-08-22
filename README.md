@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h2 align="center">👋 Hey! I'm Xuenew. 🐘</h2>
+<h2 align="center">👋 Hey! I'm Qingyao. 🐘</h2>
 <br />
 ❤️ 🍦 🍓 🍉 🍋 🥛 ☕ 🍗 🍟 🎮 💻 🎶 💰
 <br />
@@ -8,7 +8,7 @@
 
 - 🔭你好呀！💡
 
-- 🤔这里是忆阳的大象耳朵，会点小爬虫，想做一个有意思的前端工程师
+- 🤔这里是庆尧的大象耳朵，想做一个有意思的小码农
 
 - ⚡ Fun fact:喜欢看动漫，喜欢看小说，喜欢听音乐，喜欢看电影，喜欢做游戏
 
@@ -26,11 +26,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007acc?style=flat-square&logo=Visual%20Studio%20Code)
 ![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=Git&logoColor=white)
 
-![html](https://img.shields.io/badge/-html-E34F26?style=flat-square&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/-css-1572B6?style=flat-square&logo=css3)
-![](https://img.shields.io/badge/JavaScript-red?style=flat-square&logo=javascript) 
-![](https://img.shields.io/badge/Vue.js-black?style=flat-square&logo=vue.js)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 ![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=Nginx)
 ![Mysql](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql&logoColor=black)
